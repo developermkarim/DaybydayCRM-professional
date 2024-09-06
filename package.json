@@ -19,10 +19,10 @@
     "vue-template-compiler": "^2.6.10"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.8",
     "bootstrap-sass": "^3.4.1",
     "bootstrap-select": "^1.13.12",
-    "chart.js": "^2.9.3",
+    "chart.js": "^3.0.0",
     "element-ui": "^1.0.7",
     "jquery": "^3.5.1",
     "lodash": "^4.17.19",
